@@ -2,7 +2,8 @@
 
 Monggo di pake... :v
 
-## CARA INSTALL DI TERMUX
+
+## CASE ASUPAN [BASE MBB]
 
 ```bash
 //Const
@@ -48,4 +49,6 @@ anu = body.split('\n')
 anu = anu[Math.floor(Math.random() * anu.length)]             
 sendMediaURL(from, anu)
 
-})```
+})
+
+```
