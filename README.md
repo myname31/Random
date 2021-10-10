@@ -2,7 +2,8 @@
 
 Monggo di pake... :v
 
-#case
+# Case
+
 ```bash
 anu = await fetchText('https://raw.githubusercontent.com/myname31/Random/main/asupan.txt')
              
