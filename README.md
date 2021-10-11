@@ -3,7 +3,7 @@
 Monggo di pake... :v
 
 
-## CASE ASUPAN [BASE HEXAGON]
+## CASE ASUPAN [BASE HX]
 
 ```bash
 //Const
